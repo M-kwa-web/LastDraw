@@ -28,7 +28,7 @@ body{
 
 @media (min-width: 601px) and (max-width: 900px) {
     .group {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
     }
 }
 
